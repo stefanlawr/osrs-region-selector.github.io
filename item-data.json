@@ -1,0 +1,1181 @@
+{
+    "items": [
+        {
+            "name": "Abyssal Dagger",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Abyssal_dagger.png",
+            "regions": [0]
+        },
+        {
+            "name": "Abyssal Whip",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Abyssal_whip.png",
+            "regions": [0]
+        },
+        {
+            "name": "Abyssal Bludgeon",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Abyssal_bludgeon.png",
+            "regions": [0]
+        },
+        {
+            "name": "Rune Crossbow",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Rune_crossbow.png",
+            "regions": [0]
+        },
+        {
+            "name": "Granite Boots",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Granite_boots.png",
+            "regions": [0]
+        },
+        {
+            "name": "Draconic Visage",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Draconic_visage.png",
+            "regions": [0]
+        },
+        {
+            "name": "Dragon Pickaxe",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Dragon_pickaxe.png",
+            "regions": [0, 2]
+        },
+        {
+            "name": "Ancient Wyvern Shield",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Ancient_wyvern_shield.png",
+            "regions": [0, 5]
+        },
+        {
+            "name": "Dragon Crossbow",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Dragon_crossbow.png",
+            "regions": [0, 4]
+        },
+        {
+            "name": "Obsidian Helmet",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Obsidian_helmet.png",
+            "regions": [1]
+        },
+        {
+            "name": "Obsidian Platebody",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Obsidian_platebody.png",
+            "regions": [1]
+        },
+        {
+            "name": "Obsidian Platelegs",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Obsidian_platelegs.png",
+            "regions": [1]
+        },
+        {
+            "name": "TzHaar-Ket-Om",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Tzhaar-ket-om.png",
+            "regions": [1]
+        },
+        {
+            "name": "Toktz-Xil-Ak",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Toktz-xil-ak.png",
+            "regions": [1]
+        },
+        {
+            "name": "Toktz-Ket-Xil",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Toktz-ket-xil.png",
+            "regions": [1]
+        },
+        {
+            "name": "Fire Cape",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Fire_cape.png",
+            "regions": [1]
+        },
+        {
+            "name": "Infernal Cape",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Infernal_cape.png",
+            "regions": [1]
+        },
+        {
+            "name": "Onyx",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Onyx.png",
+            "regions": [1]
+        },
+        {
+            "name": "Karambwan",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Cooked_karambwan.png",
+            "regions": [1]
+        },
+        {
+            "name": "Rune Crossbow",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Rune_crossbow.png",
+            "regions": [1]
+        },
+        {
+            "name": "Draconic Visage",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Draconic_visage.png",
+            "regions": [1]
+        },
+        {
+            "name": "Void Knight Top",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Void_knight_top.png",
+            "regions": [2]
+        },
+        {
+            "name": "Void Knight Robe",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Void_knight_robe.png",
+            "regions": [2]
+        },
+        {
+            "name": "Void Knight Gloves",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Void_knight_gloves.png",
+            "regions": [2]
+        },
+        {
+            "name": "Elite Void Top",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Elite_void_top.png",
+            "regions": [2,7]
+        },
+        {
+            "name": "Elite Void Robe",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Elite_void_robe.png",
+            "regions": [2,7]
+        },
+        {
+            "name": "Armadyl Helmet",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Armadyl_helmet.png",
+            "regions": [2]
+        },
+        {
+            "name": "Armadyl Chestplate",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Armadyl_chestplate.png",
+            "regions": [2]
+        },
+        {
+            "name": "Armadyl Chainskirt",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Armadyl_chainskirt.png",
+            "regions": [2]
+        },
+        {
+            "name": "Armadyl Crossbow",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Armadyl_crossbow.png",
+            "regions": [2]
+        },
+        {
+            "name": "Bandos Boots",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Bandos_boots.png",
+            "regions": [2]
+        },
+        {
+            "name": "Bandos Chestplate",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Bandos_chestplate.png",
+            "regions": [2]
+        },
+        {
+            "name": "Bandos Tassets",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Bandos_tassets.png",
+            "regions": [2]
+        },
+        {
+            "name": "Bandos Godsword",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Bandos_godsword.png",
+            "regions": [2]
+        },
+        {
+            "name": "Saradomin Sword",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Saradomin_sword.png",
+            "regions": [2]
+        },
+        {
+            "name": "Saradomin's Light",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Saradomin's_light.png",
+            "regions": [2]
+        },
+        {
+            "name": "Zamorakian Spear",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Zamorakian_spear.png",
+            "regions": [2]
+        },
+        {
+            "name": "Zamorak Godsword",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Zamorak_godsword.png",
+            "regions": [2]
+        },
+        {
+            "name": "Torva Full Helm",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Torva_full_helm.png",
+            "regions": [2]
+        },
+        {
+            "name": "Torva Platebody",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Torva_platebody.png",
+            "regions": [2]
+        },
+        {
+            "name": "Torva Platelegs",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Torva_platelegs.png",
+            "regions": [2]
+        },
+        {
+            "name": "Max Cape",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Max_cape.png",
+            "regions": [2]
+        },
+        {
+            "name": "Zaryte Crossbow",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Zaryte_crossbow.png",
+            "regions": [2]
+        },
+        {
+            "name": "Zaryte Vambraces",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Zaryte_vambraces.png",
+            "regions": [2]
+        },
+        {
+            "name": "Bandos Godsword",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Bandos_godsword.png",
+            "regions": [2]
+        },
+        {
+            "name": "Saradomin Godsword",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Saradomin_godsword.png",
+            "regions": [2]
+        },
+        {
+            "name": "Zamorak Godsword",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Zamorak_godsword.png",
+            "regions": [2]
+        },
+        {
+            "name": "Armadyl Godsword",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Armadyl_godsword.png",
+            "regions": [2]
+        },
+        {
+            "name": "Ancient Godsword",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Ancient_godsword.png",
+            "regions": [2]
+        },
+        {
+            "name": "Staff of the Dead",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Staff_of_the_dead.png",
+            "regions": [2]
+        },
+        {
+            "name": "Zamorakian Hasta",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Zamorakian_hasta.png",
+            "regions": [2]
+        },
+        {
+            "name": "Dragon Boots",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Dragon_boots.png",
+            "regions": [2]
+        },
+        {
+            "name": "Smouldering Stone",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Smouldering_stone.png",
+            "regions": [2]
+        },
+        {
+            "name": "Pegasian Boots",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Pegasian_boots.png",
+            "regions": [2]
+        },
+        {
+            "name": "Primordial Boots",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Primordial_boots.png",
+            "regions": [2]
+        },
+        {
+            "name": "Eternal Boots",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Eternal_boots.png",
+            "regions": [2, 3]
+        },
+        {
+            "name": "Dragon Pickaxe",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Dragon_pickaxe.png",
+            "regions": [0, 2]
+        },
+        {
+            "name": "Dwarf Multicannon",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Cannon_barrels.png",
+            "regions": [2, 5]
+        },
+        {
+            "name": "Masori Mask (f)",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Masori_mask_(f).png",
+            "regions": [2, 3]
+        },
+        {
+            "name": "Masori Body (f)",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Masori_body_(f).png",
+            "regions": [2, 3]
+        },
+        {
+            "name": "Masori Chaps (f)",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Masori_chaps_(f).png",
+            "regions": [2, 3]
+        },
+        {
+            "name": "Masori Mask",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Masori_mask.png",
+            "regions": [3]
+        },
+        {
+            "name": "Masori Body",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Masori_body.png",
+            "regions": [3]
+        },
+        {
+            "name": "Masori Chaps",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Masori_chaps.png",
+            "regions": [3]
+        },
+        {
+            "name": "Infinity Hat",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Infinity_hat.png",
+            "regions": [3]
+        },
+        {
+            "name": "Infinity Top",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Infinity_top.png",
+            "regions": [3]
+        },
+        {
+            "name": "Infinity Bottoms",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Infinity_bottoms.png",
+            "regions": [3]
+        },
+        {
+            "name": "Infinity Gloves",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Infinity_gloves.png",
+            "regions": [3]
+        },
+        {
+            "name": "Infinity Boots",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Infinity_boots.png",
+            "regions": [3]
+        },
+        {
+            "name": "Lightbearer",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Lightbearer.png",
+            "regions": [3]
+        },
+        {
+            "name": "Osmumten's fang",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Osmumten's_fang.png",
+            "regions": [3]
+        },
+        {
+            "name": "Tumeken's shadow",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Tumeken's_shadow.png",
+            "regions": [3]
+        },
+        {
+            "name": "Elidinis' ward",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Elidinis'_ward.png",
+            "regions": [3]
+        },
+        {
+            "name": "Tumeken's Shadow",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Tumeken's_Shadow.png",
+            "regions": [3]
+        },
+        {
+            "name": "Ancient Staff",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Ancient_staff.png",
+            "regions": [3]
+        },
+        {
+            "name": "Master Wand",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Master_wand.png",
+            "regions": [3]
+        },
+        {
+            "name": "Dragon Pickaxe",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Dragon_pickaxe.png",
+            "regions": [3]
+        },
+        {
+            "name": "Dragon Harpoon",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Dragon_harpoon.png",
+            "regions": [3]
+        },
+        {
+            "name": "Tome of Water",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Tome_of_water.png",
+            "regions": [3]
+        },
+        {
+            "name": "Dart Tips",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Bronze_dart.png",
+            "regions": [3]
+        },
+        {
+            "name": "Pharaoh's Sceptre",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Pharaoh's_sceptre_(uncharged).png",
+            "regions": [3]
+        },
+        {
+            "name": "Blackjacks",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Maple_blackjack.png",
+            "regions": [3]
+        },
+        {
+            "name": "Sandstone",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Sandstone_(10kg).png",
+            "regions": [3]
+        },
+        {
+            "name": "Bones to Peaches",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Bones_to_Peaches.png",
+            "regions": [3]
+        },
+        {
+            "name": "Ancient Spellbook",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Ancient_spellbook.png",
+            "regions": [3]
+        },
+        {
+            "name": "Mage's Book",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Mage's_book.png",
+            "regions": [3]
+        },
+        {
+            "name": "Elidinis' ward (f)",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Elidinis'_ward_(f).png",
+            "regions": [3, 8]
+        },
+        {
+            "name": "Ultor Ring",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Ultor_ring.png",
+            "regions": [3, 9, 4]
+        },
+        {
+            "name": "Bellator Ring",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Bellator_ring.png",
+            "regions": [3, 4, 2]
+        },
+        {
+            "name": "Venator Ring",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Venator_ring.png",
+            "regions": [3, 4, 2]
+        },
+        {
+            "name": "Magus Ring",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Magus_ring.png",
+            "regions": [3, 4]
+        },
+        {
+            "name": "Virtus Mask",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Virtus_mask.png",
+            "regions": [3, 0]
+        },
+        {
+            "name": "Virtus Robe Top",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Virtus_robe_top.png",
+            "regions": [3, 0]
+        },
+        {
+            "name": "Virtus Robe Bottom",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Virtus_robe_bottom.png",
+            "regions": [3, 0]
+        },
+        {
+            "name": "Virtus Mask",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Virtus_mask.png",
+            "regions": [3, 2]
+        },
+        {
+            "name": "Virtus Robe Top",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Virtus_robe_top.png",
+            "regions": [3, 2]
+        },
+        {
+            "name": "Virtus Robe Bottom",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Virtus_robe_bottom.png",
+            "regions": [3, 2]
+        },
+        {
+            "name": "Virtus Mask",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Virtus_mask.png",
+            "regions": [3, 4]
+        },
+        {
+            "name": "Virtus Robe Top",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Virtus_robe_top.png",
+            "regions": [3, 4]
+        },
+        {
+            "name": "Virtus Robe Bottom",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Virtus_robe_bottom.png",
+            "regions": [3, 4]
+        },
+        {
+            "name": "Virtus Mask",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Virtus_mask.png",
+            "regions": [3, 9]
+        },
+        {
+            "name": "Virtus Robe Top",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Virtus_robe_top.png",
+            "regions": [3, 9]
+        },
+        {
+            "name": "Virtus Robe Bottom",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Virtus_robe_bottom.png",
+            "regions": [3, 9]
+        },
+        
+        {
+            "name": "Neitiznot Faceguard",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Neitiznot_faceguard.png",
+            "regions": [4]
+        },
+        {
+            "name": "Skeletal Visage",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Skeletal_visage.png",
+            "regions": [4]
+        },
+        {
+            "name": "Berserker Ring",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Berserker_ring.png",
+            "regions": [4]
+        },
+        {
+            "name": "Archer Ring",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Archers_ring.png",
+            "regions": [4]
+        },
+        {
+            "name": "Seers Ring",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Seers_ring.png",
+            "regions": [4]
+        },
+        {
+            "name": "Warrior Ring",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Warrior_ring.png",
+            "regions": [4]
+        },
+        {
+            "name": "Mud Battlestaff",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Mud_battlestaff.png",
+            "regions": [4]
+        },
+        {
+            "name": "Seercull",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Seercull.png",
+            "regions": [4]
+        },
+        {
+            "name": "Venator Bow",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Venator_bow.png",
+            "regions": [4]
+        },
+        {
+            "name": "Dragon Axe",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Dragon_axe.png",
+            "regions": [4]
+        },
+        {
+            "name": "Gold Leaf",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Gold_leaf.png",
+            "regions": [4]
+        },
+        {
+            "name": "Lunar Spellbook",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Lunar_spellbook.png",
+            "regions": [4]
+        },
+        {
+            "name": "Avas Assembler",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Ava's_assembler.png",
+            "regions": [4]
+        },
+        {
+            "name": "Marble Block",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Marble_block.png",
+            "regions": [4]
+        },
+        {
+            "name": "Holy Book",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Holy_book.png",
+            "regions": [4]
+        },
+        {
+            "name": "Unholy Book",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Unholy_book.png",
+            "regions": [4]
+        },
+        {
+            "name": "Book of Balance",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Book_of_balance.png",
+            "regions": [4]
+        },
+        {
+            "name": "Book of War",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Book_of_war.png",
+            "regions": [4]
+        },
+        {
+            "name": "Book of Law",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Book_of_law.png",
+            "regions": [4]
+        },
+        {
+            "name": "Book of Darkness",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Book_of_darkness.png",
+            "regions": [4]
+        },
+        {
+            "name": "Saturated Heart",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Saturated_heart.png",
+            "regions": [4]
+        },
+
+
+        {
+            "name": "Fighter Torso",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Fighter_torso.png",
+            "regions": [5]
+        },
+        {
+            "name": "Kraken Tentacle",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Kraken_tentacle.png",
+            "regions": [5]
+        },
+        {
+            "name": "Smoke Battlestaff",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Smoke_battlestaff.png",
+            "regions": [5]
+        },
+        {
+            "name": "Trident of the Seas",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Trident_of_the_seas.png",
+            "regions": [5]
+        },
+        {
+            "name": "Iban's Staff",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Iban's_staff.png",
+            "regions": [5]
+        },
+        {
+            "name": "Dragon Scimitar",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Dragon_scimitar.png",
+            "regions": [5]
+        },
+        {
+            "name": "Occult Necklace",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Occult_necklace.png",
+            "regions": [5]
+        },
+        {
+            "name": "Zenyte Shard",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Zenyte_shard.png",
+            "regions": [5]
+        },
+        {
+            "name": "Light Ballista",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Light_ballista.png",
+            "regions": [5]
+        },
+        {
+            "name": "Heavy Ballista",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Heavy_ballista.png",
+            "regions": [5]
+        },
+        {
+            "name": "Warped Scetpre",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Warped_sceptre.png",
+            "regions": [5]
+        },
+        {
+            "name": "Piety",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Piety.png",
+            "regions": [2, 5]
+        },
+        {
+            "name": "Mythical Cape",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Mythical_cape.png",
+            "regions": [4, 5]
+        },
+
+        {
+            "name": "Dharok's Helm",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Dharok's_helm.png",
+            "regions": [6]
+        },
+        {
+            "name": "Dharok's Platebody",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Dharok's_platebody.png",
+            "regions": [6]
+        },
+        {
+            "name": "Dharok's Platelegs",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Dharok's_platelegs.png",
+            "regions": [6]
+        },
+        {
+            "name": "Dharok's Greataxe",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Dharok's_greataxe.png",
+            "regions": [6]
+        },
+        {
+            "name": "Guthan's Helm",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Guthan's_helm.png",
+            "regions": [6]
+        },
+        {
+            "name": "Guthan's Platebody",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Guthan's_platebody.png",
+            "regions": [6]
+        },
+        {
+            "name": "Guthan's Chainskirt",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Guthan's_chainskirt.png",
+            "regions": [6]
+        },
+        {
+            "name": "Guthan's Warspear",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Guthan's_warspear.png",
+            "regions": [6]
+        },
+        {
+            "name": "Karil's Coif",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Karil's_coif.png",
+            "regions": [6]
+        },
+        {
+            "name": "Karil's Leathertop",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Karil's_leathertop.png",
+            "regions": [6]
+        },
+        {
+            "name": "Karil's Leatherskirt",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Karil's_leatherskirt.png",
+            "regions": [6]
+        },
+        {
+            "name": "Karil's Crossbow",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Karil's_crossbow.png",
+            "regions": [6]
+        },
+        {
+            "name": "Torag's Helm",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Torag's_helm.png",
+            "regions": [6]
+        },
+        {
+            "name": "Torag's Platebody",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Torag's_platebody.png",
+            "regions": [6]
+        },
+        {
+            "name": "Torag's Platelegs",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Torag's_platelegs.png",
+            "regions": [6]
+        },
+        {
+            "name": "Torag's Hammers",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Torag's_hammers.png",
+            "regions": [6]
+        },
+        {
+            "name": "Ahrim's Hood",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Ahrim's_hood.png",
+            "regions": [6]
+        },
+        {
+            "name": "Ahrim's Robetop",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Ahrim's_robetop.png",
+            "regions": [6]
+        },
+        {
+            "name": "Ahrim's Robeskirt",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Ahrim's_robeskirt.png",
+            "regions": [6]
+        },
+        {
+            "name": "Ahrim's Staff",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Ahrim's_staff.png",
+            "regions": [6]
+        },
+        {
+            "name": "Slayer Helmet",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Slayer_helmet.png",
+            "regions": [6]
+        },
+        {
+            "name": "Sanguinesti Staff",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Sanguinesti_staff.png",
+            "regions": [6]
+        },
+        {
+            "name": "Scythe of Vitur",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Scythe_of_vitur.png",
+            "regions": [6]
+        },
+        {
+            "name": "Justiciar Faceguard",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Justiciar_faceguard.png",
+            "regions": [6]
+        },
+        {
+            "name": "Justiciar Chestguard",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Justiciar_chestguard.png",
+            "regions": [6]
+        },
+        {
+            "name": "Justiciar Legguards",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Justiciar_legguards.png",
+            "regions": [6]
+        },
+        {
+            "name": "Ghrazi Rapier",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Ghrazi_rapier.png",
+            "regions": [6]
+        },
+        {
+            "name": "Avernic Defender",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Avernic_defender.png",
+            "regions": [2,6]
+        },
+        {
+            "name": "Vampyrium Vambraces",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Vampyrium_vambraces.png",
+            "regions": [6]
+        },
+        {
+            "name": "Amulet of Blood Fury",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Amulet_of_blood_fury.png",
+            "regions": [6]
+        },
+        {
+            "name": "Salve Amulet",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Salve_amulet.png",
+            "regions": [6]
+        },
+        {
+            "name": "Rune Boots",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Rune_boots.png",
+            "regions": [6]
+        },
+        {
+            "name": "Black Mask",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Black_mask.png",
+            "regions": [6]
+        },
+
+        {
+            "name": "Crystal Helm",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Crystal_helm.png",
+            "regions": [7]
+        },
+        {
+            "name": "Crystal Body",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Crystal_body.png",
+            "regions": [7]
+        },
+        {
+            "name": "Crystal Legs",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Crystal_legs.png",
+            "regions": [7]
+        },
+        {
+            "name": "Crystal Halberd",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Crystal_halberd.png",
+            "regions": [7]
+        },
+        {
+            "name": "Serpentine Helm",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Serpentine_helm.png",
+            "regions": [7]
+        },
+        {
+            "name": "Uncut Onyx",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Uncut_onyx.png",
+            "regions": [7]
+        },
+        {
+            "name": "Rune Boots",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Rune_boots.png",
+            "regions": [7]
+        },
+        {
+            "name": "Crystal Bow",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Crystal_bow.png",
+            "regions": [7]
+        },
+        {
+            "name": "Crystal Shield",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Crystal_shield.png",
+            "regions": [7]
+        },
+        {
+            "name": "Blade of Saeldor",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Blade_of_saeldor.png",
+            "regions": [7]
+        },
+        {
+            "name": "Bow of Faerdhinen",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Bow_of_faerdhinen.png",
+            "regions": [7]
+        },
+        {
+            "name": "Crystal Harpoon",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Crystal_harpoon.png",
+            "regions": [7]
+        },
+        {
+            "name": "Crystal Harpoon",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Crystal_harpoon.png",
+            "regions": [3,7]
+        },
+        {
+            "name": "Crystal Halberd",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Crystal_halberd.png",
+            "regions": [7,9]
+        },
+        {
+            "name": "Crystal Pickaxe",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Crystal_pickaxe.png",
+            "regions": [3,7]
+        },
+        {
+            "name": "Crystal Pickaxe",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Crystal_pickaxe.png",
+            "regions": [8,7]
+        },
+        {
+            "name": "Crystal Pickaxe",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Crystal_pickaxe.png",
+            "regions": [2,7]
+        },
+        {
+            "name": "Crystal Axe",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Crystal_axe.png",
+            "regions": [4,7]
+        },
+        {
+            "name": "Crystal Axe",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Crystal_axe.png",
+            "regions": [7,9]
+        },
+        {
+            "name": "Toxic Blowpipe",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Toxic_blowpipe.png",
+            "regions": [7]
+        },
+        {
+            "name": "Trident of the Swamp",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Trident_of_the_swamp.png",
+            "regions": [7]
+        },
+
+        {
+            "name": "Mysterious Emblem",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Mysterious_emblem.png",
+            "regions": [8]
+        },
+        {
+            "name": "Craw's Bow",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Craw's_bow.png",
+            "regions": [8]
+        },
+        {
+            "name": "Webweaver Bow",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Webweaver_bow.png",
+            "regions": [8]
+        },
+        {
+            "name": "Thammaron's Sceptre",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Thammaron's_sceptre.png",
+            "regions": [8]
+        },
+        {
+            "name": "Accursed Sceptre",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Accursed_sceptre.png",
+            "regions": [8]
+        },
+        {
+            "name": "Viggora's Chainmace",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Viggora's_chainmace.png",
+            "regions": [8]
+        },
+        {
+            "name": "Ursine Chainmace",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Ursine_chainmace.png",
+            "regions": [8]
+        },
+        {
+            "name": "Odium Ward",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Odium_ward.png",
+            "regions": [8]
+        },
+        {
+            "name": "Malediction Ward",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Malediction_ward.png",
+            "regions": [8]
+        },
+        {
+            "name": "Spectral Spirit Shield",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Spectral_spirit_shield.png",
+            "regions": [8]
+        },
+        {
+            "name": "Arcane Spirit Shield",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Arcane_spirit_shield.png",
+            "regions": [8]
+        },
+        {
+            "name": "Elysian Spirit Shield",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Elysian_spirit_shield.png",
+            "regions": [8]
+        },
+        {
+            "name": "Ring of the Gods",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Ring_of_the_gods.png",
+            "regions": [8]
+        },
+        {
+            "name": "Treasonous Ring",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Treasonous_ring.png",
+            "regions": [8]
+        },
+        {
+            "name": "Tyrannical Ring",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Tyrannical_ring.png",
+            "regions": [8]
+        },
+        {
+            "name": "Imbued Saradomin Cape",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Imbued_saradomin_cape.png",
+            "regions": [8]
+        },
+        {
+            "name": "Imbued Zamorak Cape",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Imbued_zamorak_cape.png",
+            "regions": [8]
+        },
+        {
+            "name": "Imbued Guthix Cape",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Imbued_guthix_cape.png",
+            "regions": [8]
+        },
+        {
+            "name": "Dragon Boots",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Dragon_boots.png",
+            "regions": [8]
+        },
+        {
+            "name": "Dagon'hai Hat",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Dagon'hai_hat.png",
+            "regions": [8]
+        },
+        {
+            "name": "Dagon'hai Robe Top",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Dagon'hai_robe_top.png",
+            "regions": [8]
+        },
+        {
+            "name": "Dagon'hai Robe Bottom",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Dagon'hai_robe_bottom.png",
+            "regions": [8]
+        },
+
+        {
+            "name": "Twisted Bow",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Twisted_bow.png",
+            "regions": [9]
+        },
+        {
+            "name": "Elder Maul",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Elder_maul.png",
+            "regions": [9]
+        },
+        {
+            "name": "Kodai Wand",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Kodai_wand.png",
+            "regions": [3,9]
+        },
+        {
+            "name": "Dinh's Bulwark",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Dinh's_bulwark.png",
+            "regions": [9]
+        },
+        {
+            "name": "Ancestral Hat",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Ancestral_hat.png",
+            "regions": [9]
+        },
+        {
+            "name": "Ancestral Robe Top",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Ancestral_robe_top.png",
+            "regions": [9]
+        },
+        {
+            "name": "Ancestral Robe Bottom",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Ancestral_robe_bottom.png",
+            "regions": [9]
+        },
+        {
+            "name": "Dragon Hunter Crossbow",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Dragon_hunter_crossbow.png",
+            "regions": [9]
+        },
+        {
+            "name": "Twisted Buckler",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Twisted_buckler.png",
+            "regions": [9]
+        },
+        {
+            "name": "Dragon Hunter Lance",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Dragon_hunter_crossbow.png",
+            "regions": [2,5,9]
+        },
+        {
+            "name": "Tome of Fire",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Tome_of_fire.png",
+            "regions": [9]
+        },
+        {
+            "name": "Arceuus Spellbook",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Arceuus_spellbook.png",
+            "regions": [9]
+        },
+        {
+            "name": "Rune Boots",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Rune_boots.png",
+            "regions": [9]
+        },
+        {
+            "name": "Brimstone Ring",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Brimstone_ring.png",
+            "regions": [9]
+        },
+        {
+            "name": "Arclight",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Arclight.png",
+            "regions": [3,9]
+        },
+        {
+            "name": "Rigour",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Rigour.png",
+            "regions": [9]
+        },
+        {
+            "name": "Augury",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Augury.png",
+            "regions": [9]
+        },
+        {
+            "name": "Sarachnis Cudgel",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Sarachnis_cudgel.png",
+            "regions": [9]
+        },
+        {
+            "name": "Ferocious gloves",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Ferocious_gloves.png",
+            "regions": [4,9]
+        },
+        {
+            "name": "Dragon Claws",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Dragon_claws.png",
+            "regions": [9]
+        },
+        {
+            "name": "Dragon Warhammer",
+            "imgUrl": "https://oldschool.runescape.wiki/images/Dragon_warhammer.png",
+            "regions": [9]
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    background-color: #c0a886;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+}
+
+/* Style for disabled checkboxes */
+.category input[disabled] + label {
+    color: #999;
+    cursor: not-allowed;
+}
+
+.categories {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1em;
+}
+
+.region-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(20em, 1fr));
+    width: 100%;
+}
+
+.region-box {
+    border: 1px solid #94866d;
+    padding: 10px;
+    margin: 10px;
+    background-color: #d0bd97;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.region-title {
+    font-weight: bold;
+}
+
+.region-items {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+    list-style-type: none;
+    padding: 0;
+}
+
+.region-items li {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    padding: .2em;
+    justify-content: space-between;
+}
+
+.list-item {
+    display: flex;
+    align-content: center;
+    width: 30px;
+    text-align: center;
+    justify-content: center;
+}
